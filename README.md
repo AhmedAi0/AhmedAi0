@@ -8,11 +8,8 @@ This portfolio highlights my learning journey and projects.
 - Data Analysis & Machine Learning  
 - Robotics (Arduino, Sensors, Motors)  
 
-## 📂 Projects
-- **Calculator in Python** → [Repo Link](#)  
-- **Billiard Game in Python (Pygame)** → [Repo Link](#)  
-- **Ping Pong Game in Python** → [Repo Link](#)  
-- **Arduino Robotics Project with Servo Motors** → [Repo Link](#)  
+## 📂 Projects 
+- **Arduino Robotics Project with Servo Motors** 
 
 ## 📫 Contact
 - Email: amadoatef11@gmail.com
