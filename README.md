@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**AhmedAi0/AhmedAi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 12 years old and passionate about programming, robotics, data analysis, and AI 🤖.  
+This portfolio highlights my learning journey and projects.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python programming  
+- Data Analysis & Machine Learning  
+- Robotics (Arduino, Sensors, Motors)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Calculator in Python** → [Repo Link](#)  
+- **Billiard Game in Python (Pygame)** → [Repo Link](#)  
+- **Ping Pong Game in Python** → [Repo Link](#)  
+- **Arduino Robotics Project with Servo Motors** → [Repo Link](#)  
+
+## 📫 Contact
+- Email: amadoatef11@gmail.com
