@@ -16,4 +16,4 @@ This portfolio highlights my learning journey and projects.
 - **Arduino Robotics Project with Servo Motors** → [Repo Link](#)  
 
 ## 📫 Contact
-- Email: ahmed@example.com  
+- Email: amadoatef11@gmail.com
