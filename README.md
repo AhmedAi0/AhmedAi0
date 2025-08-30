@@ -9,7 +9,10 @@ This portfolio highlights my learning journey and projects.
 - Robotics (Arduino, Sensors, Motors)  
 
 ## 📂 Projects 
-- **Arduino Robotics Project with Servo Motors** 
+- **Calculator in Python**  
+- **Billiard Game in Python (Pygame)** 
+- **Ping Pong Game in Python** 
+- **Arduino Robotics Project with Servo Motors**
 
 ## 📫 Contact
 - Email: amadoatef11@gmail.com
